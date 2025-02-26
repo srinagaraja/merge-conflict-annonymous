@@ -33,6 +33,7 @@ Use this dummy repo as you want to practice your git skills. Or you could follow
    git push origin add-contributor
    ```
 **Note**: While working in open source projects, before cloning you fork the repo to your github. Then you proceed to clone the forked repo. This ensures that the changes you make after committing is only happening in the forked repo. You might need permissions (approved pull requests) to make changes in the main project.  
+Ideally, branch ruleset has to be such that any changes/merge with main only happens after an approved pull request. This is to ensure code quality, stable main branch and preventing catastrophic mistakes!
 **Outcome**: You have created a new branch and committed your changes.
 
 ---
