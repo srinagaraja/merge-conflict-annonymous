@@ -1,7 +1,7 @@
 # merge-conflict-annonymous
 A safe space to learn and resolve conflicts 🧘
 
-Use this dummy repo as you want to practice your git skills. Or you could follow the following instructions for a tutorial on git.
+Use this dummy repo as you want to practice your git skills. Or you could follow the following instructions for a tutorial on basic git commands.
 
 # Git Tutorial
 
