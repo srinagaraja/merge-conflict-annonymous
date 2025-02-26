@@ -1,0 +1,7 @@
+Date,Location,Temperature (°C),Humidity (%),Wind Speed (km/h),Condition
+2024-02-20,New York,5,60,15,Cloudy
+2024-02-21,Los Angeles,18,50,10,Sunny
+2024-02-22,Chicago,-2,70,20,Snowy
+2024-02-23,Miami,25,80,12,Partly Cloudy
+2024-02-24,Seattle,8,90,18,Rainy
+2024-02-25,Dallas,15,55,14,Sunny
