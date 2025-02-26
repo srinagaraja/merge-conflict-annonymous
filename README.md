@@ -155,17 +155,17 @@ Ideally, branch ruleset has to be such that any changes/merge with main only hap
 ---
 
 
-## Final Task: Submit a Pull Request
+## Optional Task: Submit a Pull Request
 
 Each participant should submit a **Pull Request** to merge their changes into the main repository! 🚀
 
-## Final_Final Task: Pull to local
+## Final Task: Pull to local
 ```bash
    git pull origin main
 
    ```
 Substitue main with branch_name incase you want to pull from your working branch.
-## Final_Final_I_Swear Task: Delete the branch
+## Final_I_Swear Task: Delete the branch
 ```bash
    git branch -d yourname_feature
 
